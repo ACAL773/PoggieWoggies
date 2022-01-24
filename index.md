@@ -1,4 +1,4 @@
-## RGV TSA Event
+## Choral Showdown Event
 
 
 ### Markdown
