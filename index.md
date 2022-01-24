@@ -3,15 +3,14 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
-<details><summary>CLICK ME</summary>
+<details><summary>Choral Pieces</summary>
 <p>
-  ```ruby
-      puts "Hello World"
-    ```
+
+#### 1st Piece
+
+ https://www.jwpepper.com/The-Gettysburg-Address/10438801.item#.Ye8V0v7MKUk
 
 </p>
 </details>
