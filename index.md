@@ -1,4 +1,4 @@
-## Choral Showdown Event
+## Chorale Showdown Event
 
 
 ### Markdown
