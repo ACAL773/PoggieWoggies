@@ -15,6 +15,30 @@ https://www.jwpepper.com/The-Gettysburg-Address/10438801.item#.Ye8V0v7MKUk
 </p>
 </details>
 
+<h1 style="color:#FFFFFF; font-size:30px;">American Musicians Society</h1>
+<!DOCTYPE html>
+  <html>
+   <head>
+    <style>
+     p {
+       width:3000000000000000000000px;
+       border-style:solid;
+       border:10px #700000;
+     }
+    </style>
+  </head>
+<body>
+<p1 style="color:#FFFFFF; font-size:30px;">Welcome to the American Musicians Society Website! this is your number one stop when it comes to getting updates, watching, and signing up to new Choir events.</p1> </body>
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Background Color</title>
+   </head>
+
+   <body style="background-color:#700000;padding:0 10px">
+   </body>
+</html>
 # Header 1
 ## Header 2
 ### Header 3
