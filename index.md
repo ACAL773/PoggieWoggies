@@ -16,6 +16,7 @@ https://www.jwpepper.com/The-Gettysburg-Address/10438801.item#.Ye8V0v7MKUk
 </details>
 
 <h1 style="color:#FFFFFF; font-size:30px;">American Musicians Society</h1>
+
 <!DOCTYPE html>
   <html>
    <head>
@@ -27,6 +28,7 @@ https://www.jwpepper.com/The-Gettysburg-Address/10438801.item#.Ye8V0v7MKUk
      }
     </style>
   </head>
+ 
 <body>
 <p1 style="color:#FFFFFF; font-size:30px;">Welcome to the American Musicians Society Website! this is your number one stop when it comes to getting updates, watching, and signing up to new Choir events.</p1> </body>
 
